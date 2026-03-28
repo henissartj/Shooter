@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual envs
+.venv/
+venv/
+env/
+ENV/
+
+# PyInstaller / outputs
+build_work/
+output/
+dist/
+build/
+*.spec
+*.toc
+*.pyz
+*.pkg
+
+# OS
+Thumbs.db
+.DS_Store
